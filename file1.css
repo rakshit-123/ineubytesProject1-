@@ -1,0 +1,20 @@
+@media(max-width:238px){
+body{
+    width:100%;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+}
+.navbar{
+    background-color:black;
+}
+.benefits{
+    text-align: center;
+}
+.list-group{
+     justify-content: center;
+     align-items: center;
+}
+.image2{
+    width:50%;
+}
